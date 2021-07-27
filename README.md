@@ -4,7 +4,7 @@
 
 [**click live demo of the project**](https://dominiksiejka.github.io/ResourcesAppVue)
 
-![ResourcesAppVue preview](src\assets\resourcesapp.jpg)
+![ResourcesAppVue preview](./src/assets/resourcesapp.jpg)
 
 ## Table of Contents
 
